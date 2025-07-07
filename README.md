@@ -1,6 +1,4 @@
-# Brain-Computer-Interface
-
-🧠 EEG-Based Brain-Computer Interface Robot Controller 🧠 
+# 🧠 EEG-Based Brain-Computer Interface Robot Controller 🧠 
 
 ## Overview
 
