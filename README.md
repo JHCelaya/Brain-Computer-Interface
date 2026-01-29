@@ -1,4 +1,4 @@
-# 🧠 EEG-Based Brain-Computer Interface Robot Controller
+# 🧠 EEG-Based Brain-Computer Interface Robot Controller (Progress on hold, creating PCB)
 
 ## Overview
 
